@@ -33,7 +33,6 @@
 ## 📌 Notes
 
 - All files are in the `src/` directory
-- Commit history reflects step-by-step completion
 - Public repository for course submission
 
 ---
